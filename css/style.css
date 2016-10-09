@@ -1,0 +1,65 @@
+body {
+    background-image: url(../img/bg1.jpg);
+    background-size: cover;
+    margin-right: 70px;
+    margin-left: 70px;
+    padding-top: 20px;
+
+
+}
+
+header{
+	padding-bottom: 50px;
+}
+ h1{
+ 	color:white;
+ 	padding-left: 20px;
+ 	padding-bottom: 20px;
+ }
+
+.atoi{
+	text-decoration: underline;
+}
+
+
+.bg-blue{
+    background-color: #2F93C6;
+    border:none;
+}
+ 
+.big{
+background-image: url(../img/backgroundimg.png);
+background-size: cover;
+height: 480px;
+}
+
+#margin-top-img-circle{
+	margin-top: 188px;
+	margin-left: 61px;
+}
+
+#montre{
+	padding-bottom: 20px;
+}
+
+#montre2{
+	padding-bottom: 20px;
+}
+
+.color-b{
+	color: white;
+    text-align: center;
+
+}
+
+.footer-center{
+	padding-top: 20px;
+}
+
+footer{
+    height: 80px;
+	}
+.p-personnage{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}

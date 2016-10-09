@@ -1,0 +1,172 @@
+
+
+pre {
+    color: blue;
+    border-style: none;
+    font-size: 15px;
+    font-weight: bold;
+    text-indent: 40px
+}
+#thumbnail {
+   border-style: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container-fluid {
+    padding: 0;
+    width: 80%;
+}
+
+
+.site-wrapper-inner{
+    background-image: url(../img/bg1.jpg);
+    background-size: cover;
+
+}
+
+.header {
+
+    height: 120px;
+    line-height: 70px;
+
+}
+a.logo {
+    color: blue;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 40px;
+    text-decoration: none;
+   
+}
+
+
+img{
+    width: 80%;
+   
+    margin: 70px;
+}
+.regle  {
+    text-align: center;
+}
+
+.menu a {
+   position: relative;
+   top: -60px;
+   left: 800px;
+    margin-right: 20px;
+}
+
+h3,p {
+    text-align: center;
+    font-size: 23px;
+    padding-top: 10px;
+
+}
+
+
+body#pg-home2 {
+     
+    width: 80%;
+    margin: auto;
+    background-color: #2F93C6; 
+}
+.intro {
+   margin-top: 120px;
+}
+
+.frost{
+   
+    height: 88px;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    -webkit-filter:blur(10px);
+    filter: url(#blur-effect-1);
+}
+
+.masthead {
+    z-index:1100;
+}
+
+
+.ban {
+    width: 90%;
+    max-width: 100%;
+    padding-bottom: 40px;
+    padding-top: 30px;
+    position: relative;
+   
+}
+.ban img {
+    width: 110%;
+    max-width: 110%;
+    position: relative;
+    padding-bottom: 0px;
+    bottom: 50px;
+    right: 60px;
+    border-radius: 35px;
+}
+.inner-banner {
+    position: absolute;
+    top: 95%;
+    left: 10px;
+    width: 100%;
+    text-align: center;
+
+
+}
+h1.cover-heading {
+    width: 47%;
+    color: white;
+    background-color: transparent;
+    font-weight: bold;
+    height: 50px;
+    padding-top: 10px;
+    padding-right: 30px;
+    position: relative;
+    left: 250px;
+   
+}
+p.lead {
+    text-align: center;
+    text-indent: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+    border: 3px solid #2F93C6;
+    background-color: #2F93C6;
+    padding: 15px;
+    border-radius: 15px;
+}
+.btn  {
+    
+    color: white;
+    border: solid 2px;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #4CADFF;
+}
+h2.titre1 {
+    color:  white;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 28px;
+   line-height: 100px;
+
+}
+.color-b{
+  font-size: 15px;
+  padding-left: 20px;
+}
+
+.button{
+   font-size: 19px;
+   padding-top: 0px;
+   margin-bottom: 100px;
+}
